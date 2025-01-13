@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Hey, welcome to EazyBank accounts related webhook production using Hook APIs"
   contactDetails:
-    name: "Ravi Pandey - Software Developer"
+    name: "Ravi Pandey - Software Developer Engineer"
     email: "{cipher}891b4854e0c0c6587959c940f73290df9d8bb2264c346ba48868dc2b0ec23f308e59096fef472986333fe46abaf9c957"
   onCallSupport:
     - (453) 392-4829
