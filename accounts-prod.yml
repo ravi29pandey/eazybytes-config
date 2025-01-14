@@ -2,7 +2,7 @@ build:
   version: "1.1.0"
 
 accounts:
-  message: "Hey, welcome to EazyBank accounts related webhook production using Hook APIs"
+  message: "Hey HI , welcome to EazyBank accounts related webhook production using Hook APIs"
   contactDetails:
     name: "Ravi Pandey - Engineer"
     email: "{cipher}891b4854e0c0c6587959c940f73290df9d8bb2264c346ba48868dc2b0ec23f308e59096fef472986333fe46abaf9c957"
